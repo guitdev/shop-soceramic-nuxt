@@ -6,7 +6,7 @@
     </div>
     <div class="w-full p-5 flex flex-col justify-between">
       <div>
-        <h4 class="mt-1 font-semibold text-lg leading-tight truncate text-gray-700">{{product.title}} - ${{ product.price }}</h4>
+        <h4 class="mt-1 font-semibold text-lg leading-tight truncate text-gray-700">{{product.title}} - {{ product.price }} €</h4>
         <div class="mt-1 text-gray-600">{{ product.description }}</div>
       </div>
 

@@ -12,7 +12,7 @@ export default {
   //  <script src="https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.js"></script>
 
   head: {
-    title: "Buy stickers with Strapi, Nuxt.js and Snipcart",
+    title: "So-Ceramic - handmade",
     meta: [{
         charset: 'utf-8'
       },
@@ -23,7 +23,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: "e-commerce starter using Strapi, Nuxt.js and Snipcart"
+        content: "So-Ceramic - handmade"
       }
     ],
     link: [{

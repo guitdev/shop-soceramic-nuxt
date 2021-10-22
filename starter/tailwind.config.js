@@ -5,7 +5,13 @@
 ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
 */
 module.exports = {
-  theme: {},
+  theme: {
+    extend: {
+      colors: {
+        soceramicBg: '#F1E2D6', //241 226 214
+        soceramicTxt: '#7C6D61', //124 109 97
+      },
+  },
   variants: {},
   plugins: [],
   purge: {
