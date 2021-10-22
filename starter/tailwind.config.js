@@ -6,11 +6,11 @@
 */
 module.exports = {
   theme: {
-    extend: {
-      colors: {
-        soceramicBg: '#F1E2D6', //241 226 214
-        soceramicTxt: '#7C6D61', //124 109 97
-      }
+    // extend: {
+    //   colors: {
+    //     soceramicBg: '#F1E2D6', //241 226 214
+    //     soceramicTxt: '#7C6D61', //124 109 97
+    //   }
   },
   variants: {},
   plugins: [],
