@@ -6,7 +6,7 @@
     </span>
   </nuxt-link>
   <div className="text-xl font-semibold text-soceramicTxt flex items-center">
-    Poterie - Terre - Tips - Handmade - Artisanat
+    Boutique
   </div>
   <button class="snipcart-checkout flex items-center">
     <Cart />
