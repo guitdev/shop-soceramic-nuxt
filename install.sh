@@ -8,6 +8,6 @@ export API_URL='https://admin.so-ceramic.fr'
 
 cd shop/
 NODE_ENV=develop yarn install
-npx yarn build
+npx nuxt build
 
 touch tmp/restart.txt

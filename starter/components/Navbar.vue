@@ -15,9 +15,6 @@
       A propos
     </span>
   </nuxt-link>
-  <div className="text-xl font-semibold text-yellow-900 flex items-center">
-     --
-  </div>
   <button class="snipcart-checkout flex items-center">
     <Cart />
     <span class="snipcart-total-price ml-3 font-semibold text-sm text-yellow-900"></span>
@@ -37,7 +34,7 @@ export default {
 
 <style>
 .emoji {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 </style>
