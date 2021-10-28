@@ -6,12 +6,12 @@
     </span>
   </nuxt-link>
   <nuxt-link to="/">
-    <span class="emoji">
+    <span class="flex items-center">
       Catalogue
     </span>
   </nuxt-link>
   <nuxt-link to="/about">
-    <span class="emoji">
+    <span class="font-semibold text-sm text-yellow-900 flex items-center">
       A propos
     </span>
   </nuxt-link>
@@ -34,7 +34,7 @@ export default {
 
 <style>
 .emoji {
-  font-size: 20px;
+  font-size: 10px;
 }
 
 </style>
