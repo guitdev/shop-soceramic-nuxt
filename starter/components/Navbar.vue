@@ -5,13 +5,11 @@
       <img src="~/assets/logo.png" class="logo" height="100" width="100" />
     </span>
   </nuxt-link>
-  <nuxt-link to="/">
-    <span class="flex items-center">
-      Catalogue
-    </span>
-  </nuxt-link>
+  <span class="flex items-center">
+      So-Ceramic - Catalogue de nos poteries artisanales
+  </span>  
   <nuxt-link to="/about">
-    <span class="font-semibold text-sm text-yellow-900 flex items-center">
+    <span class="ml-3 font-semibold text-sm text-yellow-900 flex items-center">
       A propos
     </span>
   </nuxt-link>

@@ -5,7 +5,6 @@
     <Nuxt class="flex-grow" />
     <Footer />
   </div>
-
 </div>
 </template>
 
