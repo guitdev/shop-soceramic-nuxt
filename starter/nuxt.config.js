@@ -36,7 +36,7 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href: "https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.css"
+        href: "https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.css"
       },
       {
         rel: 'icon',
@@ -45,7 +45,7 @@ export default {
       }
     ],
     script: [{
-      src: 'https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.js'
+      src: 'https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js'
     }]
   },
   /*
