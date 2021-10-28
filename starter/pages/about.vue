@@ -1,6 +1,6 @@
 <template>
     <div>
-      <div class="gap-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
+      <div class="margin-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
         <h4 class="mt-1 font-semibold text-base leading-tight truncate text-gray-700">
           2021 l’année du changement
         </h4>
@@ -10,7 +10,7 @@
         </div>
       </div>
 
-      <div class="gap-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
+      <div class="margin-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
         <h4 class="mt-1 font-semibold text-base leading-tight truncate text-gray-700">
           Une formation en ligne
         </h4>
@@ -19,7 +19,7 @@
         </div>
       </div>
 
-      <div class="gap-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
+      <div class="margin-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
         <h4 class="mt-1 font-semibold text-base leading-tight truncate text-gray-700">
           Une formation en vraie
         </h4>

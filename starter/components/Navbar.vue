@@ -5,22 +5,22 @@
       <img src="~/assets/logo.png" class="logo" height="100" width="100" />
     </span>
   </nuxt-link>
-  <span class="flex mt-1 font-semibold text-yellow-900">
-      So-Ceramic - Poteries Artisanales
+  <span class="flex items-center font-bold text-yellow-900">
+      So'Ceramic - Poteries Artisanales
   </span>  
   <nuxt-link to="/">
-    <span class="flex items-center font-bold text-yellow-900">
+    <span class="flex items-center font-semibold text-yellow-900">
       Catalogue
     </span>
   </nuxt-link>
   <nuxt-link to="/about">
-    <span class="flex items-center font-bold text-yellow-900">
+    <span class="flex items-center font-semibold text-yellow-900 hover:bg-yellow-800">
       A propos
     </span>
   </nuxt-link>
   <button class="snipcart-checkout flex items-center">
     <Cart />
-    <span class="snipcart-total-price ml-3 font-semibold text-sm text-yellow-900"></span>
+    <span class="snipcart-total-price ml-3 font-semibold text-sm text-yellow-900 hover:bg-yellow-800"></span>
   </button>
 </div>
 </template>
