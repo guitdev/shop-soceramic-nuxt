@@ -2,7 +2,7 @@
 <div v-if="this.product !== null">
   <div class="m-6 mt-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-4 mt-8">
     <div class="rounded-t-lg pt-2 pb-2">
-      <img :src="`${getStrapiMedia(product.image.formats.url)}`" class="m-auto">
+      <img :src="`${getStrapiMedia(product.image.url)}`" height="350" class="m-auto">
     </div>
     <div class="w-full p-5 flex flex-col justify-between">
       <div>
