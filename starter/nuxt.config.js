@@ -12,7 +12,7 @@ export default {
   //  <script src="https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.js"></script>
 
   head: {
-    title: "So-Ceramic - handmade",
+    title: "So-Ceramic - Poterie | Terre | Tips | Handmade | Artisanat | Catalogue en ligne",
     meta: [{
         charset: 'utf-8'
       },
@@ -23,7 +23,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: "So-Ceramic - handmade"
+        content: "So-Ceramic - Poterie | Terre | Tips | Handmade | Artisanat | Catalogue en ligne"
       }
     ],
     link: [{
