@@ -5,12 +5,22 @@
       <img src="~/assets/logo.png" class="logo" height="100" width="100" />
     </span>
   </nuxt-link>
-  <div className="text-xl font-semibold text-soceramicTxt flex items-center">
-    Boutique
+  <nuxt-link to="/">
+    <span class="emoji">
+      Catalogue
+    </span>
+  </nuxt-link>
+  <nuxt-link to="/a-propos">
+    <span class="emoji">
+      A propos
+    </span>
+  </nuxt-link>
+  <div className="text-xl font-semibold text-yellow-900 flex items-center">
+     --
   </div>
   <button class="snipcart-checkout flex items-center">
     <Cart />
-    <span class="snipcart-total-price ml-3 font-semibold text-sm text-indigo-500"></span>
+    <span class="snipcart-total-price ml-3 font-semibold text-sm text-yellow-900"></span>
   </button>
 </div>
 </template>
