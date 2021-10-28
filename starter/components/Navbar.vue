@@ -1,5 +1,5 @@
 <template>
-<div class="flex justify-between ml-6 mr-6 mt-4 font-bold text-yellow-900">
+<div class="flex items-center justify-between ml-6 mr-6 mt-4 font-bold text-yellow-900">
   <nuxt-link to="/">
     <span class="emoji">
       <img src="~/assets/logo.png" class="logo" height="100" width="100" />

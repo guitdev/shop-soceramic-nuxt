@@ -1,29 +1,29 @@
 <template>
-    <div>
-      <div class="margin-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
-        <h4 class="mt-1 font-semibold text-base leading-tight truncate text-gray-700">
+    <div text-yellow-900>
+      <div class="margin-4 rounded-lg pl-4 pr-4 pb-4 pt-4">
+        <h4 class="mt-1 font-semibold text-base leading-tight truncate ">
           2021 l’année du changement
         </h4>
-        <div class="mt-1 text-sm text-gray-700">
+        <div class="mt-1 text-sm">
           Du renouveau et un retour à la terre !
           Tout à commencez dans le cabanon, au fond de mon jardin ... ⛺
         </div>
       </div>
 
-      <div class="margin-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
-        <h4 class="mt-1 font-semibold text-base leading-tight truncate text-gray-700">
+      <div class="margin-4 pl-4 pr-4 pb-4 pt-4 rounded-lg">
+        <h4 class="mt-1 font-semibold text-base leading-tight truncate">
           Une formation en ligne
         </h4>
-        <div class="mt-1 text-sm text-gray-700">
+        <div class="mt-1 text-sm">
           Derniere mon écran 💻
         </div>
       </div>
 
-      <div class="margin-4 bg-gray-100 pl-4 pr-4 pb-4 pt-4 rounded-lg">
-        <h4 class="mt-1 font-semibold text-base leading-tight truncate text-gray-700">
+      <div class="margin-4 pl-4 pr-4 pb-4 pt-4 rounded-lg">
+        <h4 class="mt-1 font-semibold text-base leading-tight truncate">
           Une formation en vraie
         </h4>
-        <div class="mt-1 text-sm text-gray-700">
+        <div class="mt-1 text-sm">
           Les mains dedans 🖐
         </div>
       </div>
