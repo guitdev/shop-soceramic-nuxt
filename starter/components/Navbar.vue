@@ -10,7 +10,7 @@
       Catalogue
     </span>
   </nuxt-link>
-  <nuxt-link to="/a-propos">
+  <nuxt-link to="/about">
     <span class="emoji">
       A propos
     </span>
