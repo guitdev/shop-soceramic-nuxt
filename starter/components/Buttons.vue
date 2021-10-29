@@ -8,7 +8,7 @@
       <nuxt-link to="/" class="bg-white hover:bg-gray-100 text-soceramicTxt  hover:text-yellow-700 font-semibold py-2 px-4 ml-2 border border-gray-400 rounded-full">Tout</nuxt-link>
 
       <div v-for="category in categories">
-        <div v-if="this.category.products !== null">
+        <div v-if="category.products !== null">
           <nuxt-link :to="`/categories/${category.slug}`" :key="category.id" class="bg-white hover:bg-gray-100 text-soceramicTxt  hover:text-yellow-700 font-semibold py-2 px-4 ml-2 border border-gray-400 rounded-full">
               {{ category.name }}
           </nuxt-link>
