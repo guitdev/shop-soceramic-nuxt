@@ -1,6 +1,6 @@
 <template>
-<div class="flex justify-between m-6 text-xs font-semibold text-yellow-900">
-  <p class="">© So'Ceramic, fait avec ❤️.</p>
+<div class="flex justify-between m-6 text-xs font-semibold text-soceramicTxt">
+  <p class="">© SO'Ceramic ❤️</p>
   <nuxt-link to="/about">
     <span class="flex items-center hover:text-yellow-700">A propos de moi</span>
   </nuxt-link>
