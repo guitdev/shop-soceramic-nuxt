@@ -1,10 +1,5 @@
 <template>
-  <div v-if="this.$strapi.$categories !== null">
     <Products :products="this.category.products" :error="error" />
-  </div>
-  <div v-else>
-    {{ error }}
-  </div>
 </template>
 
 <script>
