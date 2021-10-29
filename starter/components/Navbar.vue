@@ -8,13 +8,11 @@
 
   <div>So'Ceramic - Poteries Artisanales</div>
   
-  <nuxt-link to="/">
-    <span class="flex items-center font-semibold hover:text-yellow-700">Catalogue</span>
-  </nuxt-link>
+//  <nuxt-link to="/">
+//    <span class="flex items-center font-semibold hover:text-yellow-700">Catalogue</span>
+//  </nuxt-link>
 
-  <nuxt-link to="/about">
-    <span class="flex items-center font-semibold hover:text-yellow-700">A propos</span>
-  </nuxt-link>
+
   
   <button class="snipcart-checkout flex items-center">
     <Cart />

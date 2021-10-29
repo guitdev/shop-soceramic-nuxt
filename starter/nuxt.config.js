@@ -15,7 +15,7 @@ export default {
     htmlAttrs: {
       lang: 'fr-FR'
     },
-    title: "SO'ceramic - Création de Céramiques et Poteries Artisanales - Catalogue en ligne",
+    title: "SO'Ceramic - Création de Céramiques et Poteries Artisanales - Catalogue en ligne",
     meta: [{
         charset: 'utf-8'
       },
@@ -26,7 +26,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: "Bienvenue sur le catalogue en ligne SO'ceramic. Ici je vends une partie de mes produits. Fabrication artisanale française. Tous les produits sont des pièces faconnées à la main en quantité raisonée. SO'ceramic offre une gamme de céramiques épurées et contemporaines."
+        content: "Bienvenue sur le catalogue en ligne SO'Ceramic. Ici je vends une partie de mes produits. Fabrication artisanale française. Tous les produits sont des pièces faconnées à la main en quantité raisonée. SO'Ceramic offre une gamme de céramiques épurées et contemporaines."
       }
     ],
     link: [{
