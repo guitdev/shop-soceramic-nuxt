@@ -2,6 +2,14 @@
     <div text-yellow-900>
       <div class="margin-4 rounded-lg pl-4 pr-4 pb-4 pt-4">
         <h4 class="mt-1 font-semibold text-base leading-tight truncate ">
+            Bienvenue sur le catalogue en ligne SO'ceramic.
+        </h4>
+        <div class="mt-1 text-sm">
+          Ici je vends une partie de mes produits. Fabrication artisanale française. Tous les produits sont des pièces faconnées à la main en quantité raisonée. SO'ceramic offre une gamme de céramiques épurées et contemporaines.
+          </div>
+      </div>
+      <div class="margin-4 rounded-lg pl-4 pr-4 pb-4 pt-4">
+        <h4 class="mt-1 font-semibold text-base leading-tight truncate ">
           2021 l’année du changement
         </h4>
         <div class="mt-1 text-sm">

@@ -16,9 +16,9 @@
       </button>
 
       <div class="text-center mr-10 mb-1" v-else>
-        <div class="p-2 bg-indigo-800 items-center text-indigo-100 leading-none lg:rounded-full flex lg:inline-flex" role="alert">
-          <span class="flex rounded-full bg-indigo-500 uppercase px-2 py-1 text-xs font-bold mr-3">Coming soon...</span>
-          <span class="font-semibold mr-2 text-left flex-auto">This article is not available yet.</span>
+        <div class="p-2 bg-soceramicTxt items-center text-yellow-700 leading-none lg:rounded-full flex lg:inline-flex" role="alert">
+          <span class="flex rounded-full bg-yellow-200 uppercase px-2 py-1 text-xs font-bold mr-3">Bientôt...</span>
+          <span class="font-semibold mr-2 text-left flex-auto">Cet article n'est pas disponible pour le moment.</span>
         </div>
       </div>
 
