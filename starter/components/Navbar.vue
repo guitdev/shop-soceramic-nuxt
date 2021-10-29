@@ -5,7 +5,10 @@
       <img src="~/assets/soceramic-logo_text.png" class="logo" width="150px" />
     </span>
   </nuxt-link>
-  <div class="flex items-center m-6 text-xs">Céramiques et Poteries Artisanales</div>
+  <nuxt-link to="/">
+    <span class="flex items-center hover:text-yellow-700">Céramiques et Poteries Artisanales</span>
+  </nuxt-link>
+
   <button class="snipcart-checkout flex items-center">
     <Cart />
     <span class="snipcart-total-price ml-3 font-semibold text-sm text-soceramicTxt"></span>

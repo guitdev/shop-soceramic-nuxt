@@ -1,8 +1,8 @@
 <template>
 <div class="flex justify-between m-6 text-xs font-semibold text-soceramicTxt">
-  <p class="">© SO'Ceramic ❤️</p>
+  <p class="">© SO'ceramic - 2021 - ❤️</p>
   <nuxt-link to="/about">
-    <span class="flex items-center hover:text-yellow-700">A propos de moi</span>
+    <span class="flex items-center hover:text-yellow-700">A propos</span>
   </nuxt-link>
   <div class="flex">
     <a href="https://www.instagram.com/so_ceramic21/" class="ml-3">
