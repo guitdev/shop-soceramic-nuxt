@@ -6,6 +6,7 @@
     <Footer />
   </div>
 </div>
+<div hidden id="snipcart" data-config-modal-style="side" data-api-key="OWEyZTljNGMtOWM5NS00OTc4LWI2NGYtOWE4ODg3MzlkZDEzNjM3NzEwMzE2MTcwODE5NjEx"></div>
 </template>
 
 <script>
