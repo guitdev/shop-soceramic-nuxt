@@ -6,7 +6,7 @@
     </span>
   </nuxt-link>
   <nuxt-link to="/">
-    <span class="flex items-center hover:text-yellow-700">Céramiques et Poteries Artisanales</span>
+    <span class="flex items-center font-semibold text-sm hover:text-yellow-700">Céramiques et Poteries Artisanales</span>
   </nuxt-link>
 
   <button class="snipcart-checkout flex items-center">
