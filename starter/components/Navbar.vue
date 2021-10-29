@@ -34,7 +34,7 @@ import Cart from "./icons/cart.vue"
 export default {
   components: {
     Cart
-  }
+  },
 
   data: function() {
         return {
