@@ -12,7 +12,10 @@ export default {
   //  <script src="https://cdn.snipcart.com/themes/v3.0.16/default/snipcart.js"></script>
 
   head: {
-    title: "So-Ceramic - Poterie | Terre | Tips | Handmade | Artisanat | Catalogue en ligne",
+    htmlAttrs: {
+      lang: 'fr-FR'
+    },
+    title: "SO'ceramic - Création de Céramiques et Poteries Artisanales - Catalogue en ligne",
     meta: [{
         charset: 'utf-8'
       },
@@ -23,7 +26,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: "So-Ceramic - Poterie | Terre | Tips | Handmade | Artisanat | Catalogue en ligne"
+        content: "Bienvenue sur le catalogue en ligne SO'ceramic. Ici je vends une partie de mes produits. Fabrication artisanale française. Tous les produits sont des pièces faconnées à la main en quantité raisonée. SO'ceramic offre une gamme de céramiques épurées et contemporaines."
       }
     ],
     link: [{
