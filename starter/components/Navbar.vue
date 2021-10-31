@@ -3,11 +3,11 @@
 <base-nav type="primary"
         v-model="showMenu2"
         >
-  <div slot="brand" class="navbar-brand" href="#">
+  <div slot="brand" class="navbar-brand">
     <nuxt-link to="/">
       <span class="emoji">
         <img src="~/assets/soceramic-logo.png" class="logo" width="200px" />
-        </span>
+      </span>
     </nuxt-link>
   </div>
 
@@ -46,7 +46,6 @@
 
 <script>
 import Cart from "./icons/cart.vue"
-import {BaseNav} from '@/components'
 
 export default {
   components: {
