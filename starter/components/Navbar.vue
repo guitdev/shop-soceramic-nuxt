@@ -13,7 +13,7 @@
 
   <ul class="navbar-nav">
      <li class="nav-item active">
-       <nuxt-link to="/" class="nav-link">ACCUEIL <span class="sr-only">(current)</span></nuxt-link>
+       <nuxt-link to="/" class="nav-link">ACCUEIL <span class="sr-only">(current) </span></nuxt-link>
      </li>
      <li class="nav-item">
         <nuxt-link to="/about" class="nav-link">A PROPOS</nuxt-link>
@@ -21,12 +21,11 @@
      <li class="nav-item">
         <nuxt-link to="/catalog" class="nav-link">CATALOGUE</nuxt-link>
      </li>
-       <base-dropdown tag="li"
-                      title="CATALOGUE"
-                      title-tag="a"
-                      title-classes="nav-link"
-                      class="nav-item">
-
+     <base-dropdown tag="li"
+                    title="CATALOGUE"
+                    title-tag="a"
+                    title-classes="nav-link"
+                    class="nav-item">
         <span slot="title">
           CATALOGUE
         </span>
@@ -38,7 +37,6 @@
      <li class="nav-item">
         <nuxt-link to="/contact" class="nav-link">CONTACT</nuxt-link>
      </li>
-
   </ul>
 </base-nav>
 
