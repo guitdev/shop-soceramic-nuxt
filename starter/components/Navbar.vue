@@ -3,31 +3,25 @@
     <div class="flex items-center flex-shrink-0  mr-6">
       <nuxt-link to="/">
         <span class="emoji">
-          <img src="~/assets/soceramic-logo_text.png" class="logo" width="150px" />
+          <img src="~/assets/soceramic-logo.png" class="logo" width="150px" />
         </span>
       </nuxt-link>
     </div>
-    <div class="block md:hidden" >
-        <button @click='clickMenu' class="flex items-center px-3 py-2 border rounded" >
-        <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
-        </button>
-    </div>
-    <div class="w-full flex-grow md:flex md:items-center md:w-auto" v-if="menuVisible">
-        <div class="text-sm md:flex-grow">
-        <nuxt-link to="/about">
-          <span class="flex items-center hover:text-yellow-700">A propos</span>
-        </nuxt-link>
-        <nuxt-link to="/about">
-          <span class="flex items-center hover:text-yellow-700">A propos</span>
-        </nuxt-link>
-        </div>
-        <div>
-        <button class="snipcart-checkout flex items-center">
-          <Cart />
-          <span class="snipcart-total-price ml-3 font-semibold text-sm text-soceramicTxt"></span>
-        </button>
-        </div>
-    </div>
+
+    <nuxt-link to="/">
+      <span class="flex items-center hover:text-yellow-700">Acceuil</span>
+    </nuxt-link>
+    <nuxt-link to="/catalog">
+      <span class="flex items-center hover:text-yellow-700">Catalogue</span>
+    </nuxt-link>
+    <nuxt-link to="/about">
+      <span class="flex items-center hover:text-yellow-700">A propos</span>
+    </nuxt-link>
+
+    <button class="snipcart-checkout flex items-center">
+      <Cart />
+      <span class="snipcart-total-price ml-3 font-semibold text-sm text-soceramicTxt"></span>
+    </button>
 </nav>
 </template>
 
