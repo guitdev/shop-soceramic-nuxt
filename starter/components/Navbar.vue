@@ -9,7 +9,7 @@
     </div>
 
     <nuxt-link to="/">
-      <span class="flex items-center hover:text-yellow-700">Acceuil</span>
+      <span class="flex items-center hover:text-yellow-700">Accueil</span>
     </nuxt-link>
     <nuxt-link to="/catalog">
       <span class="flex items-center hover:text-yellow-700">Catalogue</span>
