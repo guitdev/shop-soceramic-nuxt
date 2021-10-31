@@ -47,7 +47,6 @@ import Cart from "./icons/cart.vue"
 
 export default {
   components: {
-    BaseNav,
     Cart
   },
   data: function() {
