@@ -1,6 +1,6 @@
 
 <template>
-  <div class="bg-contain bg-center ..." style="background-image: url(~/assets/tools.jpg)">
+  <div class="bg-contain bg-center" style="background-image: url('~/assets/tools.jpg');">
     <div text-soceramicTxt>
       <div class="rounded-lg pl-4 pr-4 pb-4 pt-4">
         <nuxt-link to="/catalog" class="bg-white hover:bg-gray-100 text-soceramicTxt  hover:text-yellow-700 font-semibold py-2 px-4 ml-2 border border-gray-400 rounded-full">Consulter le catalogue</nuxt-link>
