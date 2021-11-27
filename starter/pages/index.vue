@@ -42,7 +42,6 @@
             <div class="w-full h-auto">
               <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
                 <img class="w-auto" src="~/assets/tools.jpg" alt="Workflow">
-                <img class="w-auto" src="~/assets/tourne.jpg" alt="Workflow">
               </div>
             </div>
           </div>
@@ -50,7 +49,7 @@
           <div class="w-full sm:9/12 lg:w-4/12 max-h-full">
             <div class="w-full h-auto">
               <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
-                <img class="w-auto" src="~/assets/medaillons_couleurs.jpg" alt="Workflow">
+                <img class="w-auto" src="~/assets/tourne.jpg" alt="Workflow">
               </div>
             </div>
           </div>
