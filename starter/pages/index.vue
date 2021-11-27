@@ -6,6 +6,7 @@
         <nuxt-link to="/catalog" class="bg-white hover:bg-gray-100 text-soceramicTxt  hover:text-yellow-700 font-semibold py-2 px-4 ml-2 border border-gray-400 rounded-full">Consulter le catalogue</nuxt-link>
       </div>
       <div class="rounded-lg pl-4 pr-4 pb-4 pt-4">
+        <img class="block lg:hidden h-8 w-auto" src="~/assets/tools.jpg" alt="Workflow">
         <h4 class="mt-1 font-semibold text-base leading-tight truncate ">
             Bienvenue sur le catalogue en ligne SO'ceramic.
         </h4>
