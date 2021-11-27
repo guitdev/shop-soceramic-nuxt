@@ -7,7 +7,7 @@
 
           <div class="w-full lg:w-6/12 lg:pr-6 text-lg">
             <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
-              <img class="w-auto" src="~/assets/soceramiclogo-512x512.png" alt="Workflow">
+              <img class="w-auto" src="~/assets/soceramiclogo-192x192.png" alt="Workflow">
             </div>
             <h1 class="mt-1 font-semibold text-base leading-tight truncate ">
                 Bienvenue sur le catalogue en ligne SO'ceramic.
