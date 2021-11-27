@@ -38,7 +38,8 @@
           <div class="flex space-x-4">
             <!-- Current: "bg-gray-900 text-socreamicTxt", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
             <a href="/" class="text-socreamicTxt hover:text-yellow-700 px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Accueil</a>
-            <a href="/about" class="text-socreamicTxt hover:text-yellow-700 px-3 py-2 rounded-md text-sm font-medium">A propos</a>
+            <!--
+            <a href="/about" class="text-socreamicTxt hover:text-yellow-700 px-3 py-2 rounded-md text-sm font-medium">A propos</a> -->
             <a href="/catalog" class="text-socreamicTxt gray-300 hover:text-yellow-700 px-3 py-2 rounded-md text-sm font-medium">Catalogue</a>
             <a href="/contact" class="text-socreamicTxt hover:text-yellow-700 px-3 py-2 rounded-md text-sm font-medium">Contact</a>
           </div>
