@@ -3,7 +3,7 @@
 
       <div class="rounded-lg pl-4 pr-4 pb-4 pt-4">
         <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
-          <img class="w-auto" src="~/assets/soceramiclogo-512x512.png" alt="Workflow">
+          <img class="w-300" src="~/assets/soceramiclogo-512x512.png" alt="Workflow">
         </div>
         <h3 class="mt-1 font-semibold leading-tight truncate ">
           Artisan céramiste
