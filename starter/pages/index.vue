@@ -8,16 +8,17 @@
             <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
               <img class="w-auto" src="~/assets/soceramic-logo.png" alt="Workflow">
             </div>
-            <h3 class="mt-1 font-semibold text-base leading-tight truncate ">
+            <h1 class="mt-1 font-semibold text-base leading-tight truncate ">
                 Bienvenue sur le catalogue en ligne SO'ceramic.
-            </h3>
+            </h1>
             <p class="mt-1 text-sm">
               J'expose ici une partie de mes produits.</br>
               Fabrication artisanale française.</br>
               Tous les produits sont des pièces faconnées à la main en quantité raisonée. SO'ceramic offre une gamme de céramiques épurées et contemporaines.
             </p>
+
             <div style="display:block;overflow:hidden;position:relative;box-sizing:border-box;margin:0">
-              <nuxt-link to="/catalog" class="bg-white hover:bg-gray-100 text-soceramicTxt  hover:text-yellow-700 font-semibold py-2 px-4 ml-2 border border-gray-400 rounded-full">Consulter le catalogue</nuxt-link>
+              <nuxt-link to="/catalog" class="bg-white hover:bg-gray-100 text-soceramicTxt  hover:text-yellow-700 font-semibold py-4 px-8 ml-2 border border-gray-400 rounded-full">Consulter le catalogue</nuxt-link>
             </div>
           </div>
           <div class="w-full sm:9/12 lg:w-4/12 max-h-full">
