@@ -3,7 +3,7 @@
   <p class="">© SO'ceramic - 2021 - ❤️</p>
 
   <div class="flex">
-    <a href="https://www.instagram.com/soceramic/" class="ml-3">
+    <a href="https://www.instagram.com/soceramic/" class="ml-3" target="_blank">
       <Instagram />
     </a>
   </div>
