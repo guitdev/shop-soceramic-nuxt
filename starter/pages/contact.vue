@@ -12,8 +12,13 @@
           Production française & eco-responsable
         </h3>
 
+        <!--
         <div class="mt-1 text-sm">
-          Pour me contacter: soceramic21[@]gmail.com
+          Pour me contacter: soceramic21 (at) gmail.com
+        </div>
+        -->
+        <div>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2Hp45iOobPsczEORBp-qZQqbOH6Xes9BEK6a0h8XklbYYfQ/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
         </div>
       </div>
 
